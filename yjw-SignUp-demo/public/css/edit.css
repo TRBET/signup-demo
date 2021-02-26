@@ -1,0 +1,22 @@
+#form{
+    margin-left: 500px;
+}
+label{
+    letter-spacing: 3px;
+}
+input:hover{
+    border: 2px solid lightskyblue;
+}
+.username, .age{
+    width: 600px;
+    height: 30px;
+}
+.hobbies{
+    width: 600px;
+    height: 70px;
+}
+.submit{
+    width: 120px;
+    height: 38px;
+    background-color: #ddd;
+}

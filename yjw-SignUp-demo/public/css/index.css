@@ -1,0 +1,12 @@
+.add-students{
+    text-align: center;
+    font-size: 25px;
+}
+.table-responsive{
+    margin: 0 auto;
+    width: 800px;
+    height: 600px;
+}
+.table {
+    border-spacing: 40px;
+}

@@ -1,0 +1,41 @@
+main{
+    height: 500px;
+    padding-top: 80px;
+}
+#signup{
+    height: 300px;
+    width: 420px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #aaa;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+#signup form{
+    margin-left: 80px;
+}
+#signup form input{
+    height: 40px;
+    width: 250px;
+    margin-top: 30px;
+    padding-left: 8px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: #ccc 1px solid;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+a {
+    text-decoration: none;
+    display: block;
+    color: black;
+    text-align: center;
+    height: 40px;
+    width: 180px;
+    margin-top: 20px;
+    margin-left: 40px;
+    padding-top: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #ddd;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
